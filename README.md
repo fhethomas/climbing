@@ -2,6 +2,7 @@
 Investigation of climbing data and possible modelling.
 
 The basic climbing board layout is as below.
+
 ![The Moonboard](/https://github.com/fhethomas/storage_repo/blob/master/base_image.png)
 
 Climbers create their own problems which other people can climb and set the difficulty of these climbs. The aim of this repo is to ascertain if a regression tool can be trained to identify the correct difficulty of the climb.
